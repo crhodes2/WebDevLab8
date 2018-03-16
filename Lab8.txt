@@ -1,0 +1,15 @@
+For Extra Credit
+Two accounts: 
+
+1) yapic@gmail.com
+2) yapoc@gmail.com
+
+password: 1234abCD!
+
+List of Pokemon for yapic@gmail.com
+  Charizard
+  Greninja
+
+List of Pokemon for yapoc@gmail.com
+  Pikachu
+  Jigglypuff
